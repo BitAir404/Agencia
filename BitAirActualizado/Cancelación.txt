@@ -1,0 +1,6 @@
+Dni: 51489403Q
+Iden Reserva: 1
+Iden Viaje: 1
+Plazas Reservadas: 2
+Codigo Empleado: 1
+Precio a devolver: Solo se devolverá la mitad del pago.
